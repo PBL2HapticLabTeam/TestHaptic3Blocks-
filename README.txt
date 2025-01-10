@@ -1,5 +1,6 @@
 README
   This README assumes you have already completed the setup process outlined in the manual.pdf. If you encounter any issues during installation, please refer to manual.pdf again for detailed instructions and retry the installation. We highly recommend familiarizing yourself with the haptic device by exploring the demos provided by 3D Systems.
+
 Getting Started:
 1.Connect and Calibrate the Haptic Touch Device: Connect the haptic device to your computer. Open “Touch Smart Setup” when the device is connected. The program should display an animated device synced with the haptic device in the center of the window. Insert the stylus into the inkwell and click “Save Configuration” at the bottom of the window.
 2. Launch the Project in Unity: Open the “Test Haptic 3 Blocks”  project in Unity and check for any errors. If there are issues with the code, compilation error messages with red hazard signs will appear in the console. We recommend not modifying the code and using it as provided to ensure successful execution on the first attempt.
